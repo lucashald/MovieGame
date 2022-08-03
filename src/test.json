@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Vigo",
+      "charges": "PKR 100 per excess km"
+    },
+    {
+      "id": 2,
+      "name": "Mercedes",
+      "charges": "PKR 200 per excess km"
+    },
+    {
+        "id": 3,
+        "name": "Lexus",
+        "charges": "PKR 150 per excess km"
+      }
+]
